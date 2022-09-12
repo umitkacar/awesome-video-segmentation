@@ -15,6 +15,8 @@
 
 - https://github.com/saic-vul/fbrs_interactive_segmentation
 
+- https://github.com/acaelles97/DeVIS
+
 
 ## other-awesome
 
