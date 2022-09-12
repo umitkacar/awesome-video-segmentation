@@ -31,6 +31,8 @@
 
 ## dataset
 
+- https://link.springer.com/article/10.1007/s10462-022-10176-7/tables/1
+
 - DAVIS https://davischallenge.org/
 
 - YouTube-VOS https://youtube-vos.org/
