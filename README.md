@@ -26,7 +26,7 @@
 
 - https://github.com/ChanChiChoi/awesome-video-segmentation
 
-- https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md#23-interactive-video-object-segmentation-ivos
+- https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md
 
 
 ## dataset
