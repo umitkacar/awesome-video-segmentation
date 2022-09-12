@@ -1,6 +1,5 @@
 # awesome-video-segmentation
 
-- https://github.com/suhwan-cho/awesome-video-object-segmentation
 
 - https://github.com/hkchengrex/XMem
 
@@ -11,3 +10,20 @@
 - https://github.com/hkchengrex/STCN
 
 - https://github.com/saic-vul/fbrs_interactive_segmentation
+
+
+## other-awesome
+
+- https://github.com/suhwan-cho/awesome-video-object-segmentation
+
+- https://github.com/jiawen9611/Awesome-Video-Instance-Segmentation
+
+- https://github.com/ChanChiChoi/awesome-video-segmentation
+
+
+## dataset
+
+- DAVIS https://davischallenge.org/
+
+- YouTube-VOS https://youtube-vos.org/
+
