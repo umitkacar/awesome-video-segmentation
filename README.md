@@ -1,5 +1,7 @@
 # awesome-video-segmentation
 
+- https://github.com/suhwan-cho/awesome-video-object-segmentation
+
 - https://github.com/hkchengrex/XMem
 
 - https://github.com/hkchengrex/MiVOS
