@@ -5,6 +5,10 @@
 
 - https://github.com/hkchengrex/MiVOS
 
+- https://github.com/hkchengrex/Mask-Propagation
+
+- https://github.com/hkchengrex/Scribble-to-Mask
+
 - https://github.com/Limingxing00/RDE-VOS-CVPR2022
 
 - https://github.com/hkchengrex/STCN
