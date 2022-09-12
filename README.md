@@ -47,7 +47,7 @@
 
 - https://arxiv.org/pdf/2107.01153.pdf - https://github.com/tfzhou/VS-Survey
 
-## VOS categories
+## VOS categories
 
 - online fine-tuning-based
 - feature matching-based
