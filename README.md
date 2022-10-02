@@ -28,16 +28,19 @@
 
 - https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md
 
-
 ## dataset
 
 - https://link.springer.com/article/10.1007/s10462-022-10176-7/tables/1
 
-- DAVIS https://davischallenge.org/
+- [DAVIS](https://davischallenge.org/)
 
-- YouTube-VOS https://youtube-vos.org/
+- [YouTube-VOS](https://youtube-vos.org/)
 
-- SAIL-VOS http://sailvos.web.illinois.edu/_site/index.html
+- [SAIL-VOS](http://sailvos.web.illinois.edu/_site/index.html)
+
+- [VISOR](https://epic-kitchens.github.io/VISOR/)
+
+- [VISOR-PAPER](https://arxiv.org/pdf/2209.13064.pdf)
 
 ## survey-review
 
